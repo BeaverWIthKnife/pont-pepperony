@@ -1,0 +1,293 @@
+a {
+  text-decoration: none; 
+  color: black
+}
+a:visited {
+  color: black
+}
+a:hover,
+a:active { 
+  color: black 
+}
+
+.frame {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.frame .overlap-group-wrapper {
+  background-color: #ffffff;
+  overflow: hidden;
+  width: 1920px;
+  height: 1280px;
+}
+
+.frame .overlap-group {
+  position: relative;
+  height: 1280px;
+}
+
+.frame .rectangle {
+  height: 484px;
+  top: 0;
+  background-color: #fffbef;
+  position: absolute;
+  width: 1920px;
+  left: 0;
+}
+
+.frame .div {
+  height: 912px;
+  top: 368px;
+  background-color: #fbeec8;
+  position: absolute;
+  width: 1920px;
+  left: 0;
+}
+
+.frame .pony-PEPPERONI {
+  position: absolute;
+  width: 432px;
+  height: 122px;
+  top: 10px;
+  left: 234px;
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  color: transparent;
+  font-size: 64px;
+  letter-spacing: 0;
+  line-height: 56.8px;
+}
+
+.frame .text-wrapper {
+  font-family: "Inter-BoldItalic", Helvetica;
+  font-style: italic;
+  color: #b42f0b;
+}
+
+.frame .span {
+  font-family: "Inter-BoldItalic", Helvetica;
+  font-style: italic;
+  color: #751e0d;
+}
+
+.frame .text-wrapper-2 {
+  width: 200px;
+  height: 57px;
+  top: 43px;
+  left: 896px;
+  font-family: "Inter-BoldItalic", Helvetica;
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 37.0px;
+  position: absolute;
+  font-style: italic;
+  color: #000000;
+  letter-spacing: 0;
+}
+
+.frame .text-wrapper-3 {
+  width: 197px;
+  height: 57px;
+  top: 43px;
+  left: 1145px;
+  font-family: "Inter-BoldItalic", Helvetica;
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 37.0px;
+  position: absolute;
+  font-style: italic;
+  color: #000000;
+  letter-spacing: 0;
+}
+
+.frame .text-wrapper-4 {
+  width: 248px;
+  height: 57px;
+  top: 41px;
+  left: 1601px;
+  font-family: "Inter-BoldItalic", Helvetica;
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 37.0px;
+  position: absolute;
+  font-style: italic;
+  color: #000000;
+  letter-spacing: 0;
+}
+
+.frame .text-wrapper-5 {
+  width: 172px;
+  height: 57px;
+  top: 43px;
+  left: 1393px;
+  font-family: "Inter-BoldItalic", Helvetica;
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 37.0px;
+  position: absolute;
+  font-style: italic;
+  color: #000000;
+  letter-spacing: 0;
+}
+
+.frame .text-wrapper-6 {
+  width: 750px;
+  height: 102px;
+  top: 220px;
+  left: 99px;
+  font-family: "Inter-BoldItalic", Helvetica;
+  font-weight: 700;
+  font-size: 128px;
+  line-height: 167.8px;
+  white-space: nowrap;
+  position: absolute;
+  font-style: italic;
+  color: #000000;
+  letter-spacing: 0;
+}
+
+.frame .text-wrapper-7 {
+  width: 797px;
+  height: 94px;
+  top: 381px;
+  left: 99px;
+  font-family: "Inter-SemiBold Italic", Helvetica;
+  font-weight: 600;
+  font-size: 64px;
+  line-height: 83.9px;
+  white-space: nowrap;
+  position: absolute;
+  font-style: italic;
+  color: #000000;
+  letter-spacing: 0;
+}
+
+.frame .text-wrapper-8 {
+  width: 536px;
+  height: 94px;
+  top: 1122px;
+  left: 559px;
+  font-family: "Inter-SemiBold Italic", Helvetica;
+  font-weight: 600;
+  font-size: 64px;
+  line-height: 83.9px;
+  white-space: nowrap;
+  position: absolute;
+  font-style: italic;
+  color: #000000;
+  letter-spacing: 0;
+}
+
+.frame .text-wrapper-9 {
+  width: 536px;
+  height: 94px;
+  top: 1122px;
+  left: 1226px;
+  font-family: "Inter-SemiBold Italic", Helvetica;
+  font-weight: 600;
+  font-size: 64px;
+  line-height: 83.9px;
+  white-space: nowrap;
+  position: absolute;
+  font-style: italic;
+  color: #000000;
+  letter-spacing: 0;
+}
+
+.frame .p {
+  position: absolute;
+  width: 463px;
+  height: 95px;
+  top: 464px;
+  left: 99px;
+  font-family: "Inter-SemiBold Italic", Helvetica;
+  font-weight: 600;
+  font-style: italic;
+  color: #000000;
+  font-size: 32px;
+  letter-spacing: 0;
+  line-height: 41.9px;
+}
+
+.frame .text-wrapper-10 {
+  position: absolute;
+  width: 463px;
+  height: 95px;
+  top: 544px;
+  left: 99px;
+  font-family: "Inter-SemiBold Italic", Helvetica;
+  font-weight: 600;
+  font-style: italic;
+  color: #000000;
+  font-size: 32px;
+  letter-spacing: 0;
+  line-height: 41.9px;
+}
+
+.frame .text-wrapper-11 {
+  position: absolute;
+  width: 463px;
+  height: 95px;
+  top: 625px;
+  left: 96px;
+  font-family: "Inter-SemiBold Italic", Helvetica;
+  font-weight: 600;
+  font-style: italic;
+  color: #000000;
+  font-size: 32px;
+  letter-spacing: 0;
+  line-height: 41.9px;
+}
+
+.frame .photo {
+  position: absolute;
+  width: 147px;
+  height: 147px;
+  top: 44px;
+  left: 56px;
+  object-fit: cover;
+}
+
+.frame .element {
+  width: 536px;
+  height: 600px;
+  left: 559px;
+  position: absolute;
+  top: 524px;
+}
+
+.frame .element-c-de-ad {
+  width: 541px;
+  height: 604px;
+  left: 1222px;
+  position: absolute;
+  top: 524px;
+}
+
+.frame .map-pin {
+  position: absolute;
+  width: 48px;
+  height: 48px;
+  top: 482px;
+  left: 38px;
+}
+
+.frame .phone {
+  position: absolute;
+  width: 48px;
+  height: 48px;
+  top: 564px;
+  left: 41px;
+}
+
+.frame .mark-email-unread {
+  position: absolute;
+  width: 46px;
+  height: 46px;
+  top: 629px;
+  left: 42px;
+}

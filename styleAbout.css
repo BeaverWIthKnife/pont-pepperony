@@ -1,0 +1,282 @@
+a {
+  text-decoration: none; 
+  color: black
+}
+a:visited {
+  color: black
+}
+a:hover,
+a:active { 
+  color: black 
+}
+
+.frame {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.frame .div {
+  background-color: #ffffff;
+  overflow: hidden;
+  width: 1920px;
+  height: 1358px;
+  position: relative;
+}
+
+.frame .overlap-group {
+  position: absolute;
+  width: 1920px;
+  height: 733px;
+  top: 0;
+  left: 0;
+}
+
+.frame .rectangle {
+  height: 484px;
+  top: 0;
+  background-color: #fffbef;
+  position: absolute;
+  width: 1920px;
+  left: 0;
+}
+
+.frame .rectangle-2 {
+  height: 365px;
+  top: 368px;
+  background-color: #fbeec8;
+  position: absolute;
+  width: 1920px;
+  left: 0;
+}
+
+.frame .pony-PEPPERONI {
+  position: absolute;
+  width: 432px;
+  height: 122px;
+  top: 55px;
+  left: 234px;
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  color: transparent;
+  font-size: 64px;
+  letter-spacing: 0;
+  line-height: 56.8px;
+}
+
+.frame .text-wrapper {
+  font-family: "Inter-BoldItalic", Helvetica;
+  font-style: italic;
+  color: #b42f0b;
+}
+
+.frame .span {
+  font-family: "Inter-BoldItalic", Helvetica;
+  font-style: italic;
+  color: #751e0d;
+}
+
+.frame .text-wrapper-2 {
+  width: 248px;
+  height: 57px;
+  top: 41px;
+  left: 1601px;
+  font-family: "Inter-BoldItalic", Helvetica;
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 37.0px;
+  position: absolute;
+  font-style: italic;
+  color: #000000;
+  letter-spacing: 0;
+}
+
+.frame .text-wrapper-3 {
+  width: 750px;
+  height: 436px;
+  top: 220px;
+  left: 110px;
+  font-family: "Inter-BoldItalic", Helvetica;
+  font-weight: 700;
+  font-size: 128px;
+  line-height: 167.8px;
+  position: absolute;
+  font-style: italic;
+  color: #000000;
+  letter-spacing: 0;
+}
+
+.frame .text-wrapper-4 {
+  width: 797px;
+  height: 94px;
+  top: 385px;
+  left: 116px;
+  font-family: "Inter-SemiBold Italic", Helvetica;
+  font-weight: 600;
+  font-size: 64px;
+  line-height: 83.9px;
+  white-space: nowrap;
+  position: absolute;
+  font-style: italic;
+  color: #000000;
+  letter-spacing: 0;
+}
+
+.frame .p {
+  width: 850px;
+  height: 240px;
+  top: 455px;
+  left: 110px;
+  font-family: "Inter-SemiBold Italic", Helvetica;
+  font-weight: 600;
+  font-size: 40px;
+  line-height: 52.4px;
+  position: absolute;
+  font-style: italic;
+  color: #000000;
+  letter-spacing: 0;
+}
+
+.frame .photo {
+  position: absolute;
+  width: 147px;
+  height: 147px;
+  top: 44px;
+  left: 56px;
+  object-fit: cover;
+}
+
+.frame .element {
+  position: absolute;
+  width: 429px;
+  height: 573px;
+  top: 132px;
+  left: 982px;
+}
+
+.frame .text-wrapper-5 {
+  width: 200px;
+  height: 57px;
+  top: 43px;
+  left: 896px;
+  font-family: "Inter-BoldItalic", Helvetica;
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 37.0px;
+  position: absolute;
+  font-style: italic;
+  color: #000000;
+  letter-spacing: 0;
+}
+
+.frame .text-wrapper-6 {
+  width: 197px;
+  height: 57px;
+  top: 43px;
+  left: 1145px;
+  font-family: "Inter-BoldItalic", Helvetica;
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 37.0px;
+  position: absolute;
+  font-style: italic;
+  color: #000000;
+  letter-spacing: 0;
+}
+
+.frame .text-wrapper-7 {
+  width: 172px;
+  height: 57px;
+  top: 43px;
+  left: 1393px;
+  font-family: "Inter-BoldItalic", Helvetica;
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 37.0px;
+  position: absolute;
+  font-style: italic;
+  color: #000000;
+  letter-spacing: 0;
+}
+
+.frame .overlap {
+  position: absolute;
+  width: 1920px;
+  height: 574px;
+  top: 733px;
+  left: 0;
+  background-color: #fffbef;
+}
+
+.frame .overlap-2 {
+  position: absolute;
+  width: 822px;
+  height: 310px;
+  top: 33px;
+  left: 110px;
+}
+
+.frame .text-wrapper-8 {
+  position: absolute;
+  width: 797px;
+  height: 94px;
+  top: 0;
+  left: 6px;
+  font-family: "Inter-SemiBold Italic", Helvetica;
+  font-weight: 600;
+  font-style: italic;
+  color: #000000;
+  font-size: 64px;
+  letter-spacing: 0;
+  line-height: 83.9px;
+  white-space: nowrap;
+}
+
+.frame .text-wrapper-9 {
+  width: 822px;
+  height: 240px;
+  top: 70px;
+  left: 0;
+  font-family: "Inter-SemiBold Italic", Helvetica;
+  font-weight: 600;
+  font-size: 40px;
+  line-height: 52.4px;
+  position: absolute;
+  font-style: italic;
+  color: #000000;
+  letter-spacing: 0;
+}
+
+.frame .overlap-3 {
+  position: absolute;
+  width: 822px;
+  height: 188px;
+  top: 343px;
+  left: 110px;
+}
+
+.frame .text-wrapper-10 {
+  width: 822px;
+  height: 118px;
+  top: 70px;
+  left: 0;
+  font-family: "Inter-SemiBold Italic", Helvetica;
+  font-weight: 600;
+  font-size: 40px;
+  line-height: 52.4px;
+  position: absolute;
+  font-style: italic;
+  color: #000000;
+  letter-spacing: 0;
+}
+
+.frame .element-cbc-cff-d {
+  position: absolute;
+  width: 435px;
+  height: 482px;
+  top: 34px;
+  left: 983px;
+  object-fit: cover;
+}
